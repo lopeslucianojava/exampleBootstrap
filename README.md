@@ -1,2 +1,2 @@
 # exampleBootstrap
-Example Button in bootstrap
+Example button in bootstrap
