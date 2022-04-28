@@ -1,2 +1,2 @@
 # exampleBootstrap
-liks: https://diegomariano.com/bootstrap/ - https://getbootstrap.com.br/
+liks:  https://getbootstrap.com.br/  //   https://diegomariano.com/bootstrap/ 
